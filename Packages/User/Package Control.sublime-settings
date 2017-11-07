@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"3v4l Uploader"
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ColorPick",
+		"CSScomb",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"LESS",
+		"Package Control",
+		"SublimeGit"
+	]
+}
