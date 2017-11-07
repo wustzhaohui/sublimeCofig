@@ -194,10 +194,11 @@
 			"buffers":
 			[
 				{
-					"file": "/E/mv/src/app/template/send-coupon/style.less",
+					"file": "/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
 					"settings":
 					{
-						"buffer_size": 653,
+						"buffer_size": 241,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
@@ -209,17 +210,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 170.0,
-				"last_filter": "remove",
+				"height": 137.0,
+				"last_filter": "install",
 				"selected_items":
 				[
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"git",
@@ -274,6 +275,8 @@
 			],
 			"file_history":
 			[
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+				"/E/mv/src/app/template/send-coupon/style.less",
 				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
 				"/E/mv/src/app/template/send-coupon/controller.js",
 				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
@@ -335,26 +338,24 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/E/mv/src/app/template/send-coupon/style.less",
+							"file": "/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 653,
+								"buffer_size": 241,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										311,
-										311
+										240,
+										240
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/LESS/LESS.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
