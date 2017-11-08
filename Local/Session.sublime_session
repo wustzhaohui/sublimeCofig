@@ -1,0 +1,497 @@
+{
+	"folder_history":
+	[
+		"/E/mv"
+	],
+	"last_version": 3153,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 137.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git",
+						"Git: Pull"
+					],
+					[
+						"git:branch",
+						"Legit: Branches"
+					],
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 199.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
+				"/E/mv/src/app/template/send-coupon/controller.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
+				"/E/mv/src/app/template/rechange/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/src/app/app-pro/routes.js",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
+			],
+			"find":
+			{
+				"height": 46.0
+			},
+			"find_in_files":
+			{
+				"height": 119.0,
+				"where_history":
+				[
+					"E:\\mv\\src"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"type",
+					"}\n",
+					"type",
+					"DialogStoreStockDetail",
+					"loadPrintData",
+					"筛选"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 322.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"end",
+						"endY"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/mv/src/app/views/bonus/ladder/index.html",
+					"settings":
+					{
+						"buffer_size": 5807,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "git:status",
+				"selected_items":
+				[
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"git:diff",
+						"Git: Diff"
+					],
+					[
+						"git:pull",
+						"Git: Pull"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Pull"
+					],
+					[
+						"git:branch",
+						"Legit: Branches"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 199.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/mv",
+				"/E/mv/src",
+				"/E/mv/src/app",
+				"/E/mv/src/app/views",
+				"/E/mv/src/app/views/bonus",
+				"/E/mv/src/app/views/bonus/ladder",
+				"/E/mv/src/app/views/store-stock",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record"
+			],
+			"file_history":
+			[
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/E/mv/src/app/views/bonus/ladder/index.html",
+				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
+				"/E/mv/src/app/views/bonus/ladder/controller.js",
+				"/E/mv/src/app/services/api.bonus.js",
+				"/E/mv/src/app/services/api.card.js",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/fly/src/fly.js",
+				"/E/mv/node_modules/hosted-git-info/git-host.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
+				"/E/mv/src/app/directives/mw-message-list.js",
+				"/E/mv/src/app/app-pro/routes.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+				"/E/mv/src/app/template/send-coupon/style.less",
+				"/E/mv/src/app/template/send-coupon/controller.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
+				"/E/mv/src/app/template/rechange/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 167.0,
+				"where_history":
+				[
+					"E:\\mv\\src"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"vm.ladder_bonus",
+					"setpCommission",
+					"DialogController",
+					"detail",
+					"DialogController",
+					"locals",
+					"DialogController",
+					"type",
+					"}\n",
+					"type",
+					"DialogStoreStockDetail",
+					"loadPrintData",
+					"筛选"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\mv"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/mv/src/app/views/bonus/ladder/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5807,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4000,
+										4000
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1575.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,907,1991,368,2647",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 322.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

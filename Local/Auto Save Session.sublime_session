@@ -198,55 +198,10 @@
 			"buffers":
 			[
 				{
-					"file": "/E/mv/src/app/app-pro/app_main.js",
+					"file": "/E/mv/src/app/views/bonus/ladder/index.html",
 					"settings":
 					{
-						"buffer_size": 105140,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mv/src/app/template/mw-message-list.html",
-					"settings":
-					{
-						"buffer_size": 8780,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mv/src/index.html",
-					"settings":
-					{
-						"buffer_size": 24753,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
-					"settings":
-					{
-						"buffer_size": 10627,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
-					"settings":
-					{
-						"buffer_size": 3751,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
-					"settings":
-					{
-						"buffer_size": 217,
+						"buffer_size": 5807,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -259,10 +214,22 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 137.0,
-				"last_filter": "install",
+				"height": 392.0,
+				"last_filter": "git:status",
 				"selected_items":
 				[
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"git:diff",
+						"Git: Diff"
+					],
+					[
+						"git:pull",
+						"Git: Pull"
+					],
 					[
 						"install",
 						"Package Control: Install Package"
@@ -278,10 +245,6 @@
 					[
 						"git:branch",
 						"Legit: Branches"
-					],
-					[
-						"git:status",
-						"Git: Status"
 					],
 					[
 						"remo",
@@ -312,34 +275,41 @@
 				"/E/mv",
 				"/E/mv/src",
 				"/E/mv/src/app",
-				"/E/mv/src/app/template",
-				"/E/mv/src/app/template/store-stock",
-				"/E/mv/src/app/template/store-stock/store-stock-detail",
 				"/E/mv/src/app/views",
+				"/E/mv/src/app/views/bonus",
+				"/E/mv/src/app/views/bonus/ladder",
 				"/E/mv/src/app/views/store-stock",
 				"/E/mv/src/app/views/store-stock/store-stock-purchase-record"
 			],
 			"file_history":
 			[
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/E/mv/src/app/views/bonus/ladder/index.html",
+				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
 				"/E/mv/src/app/views/bonus/ladder/controller.js",
+				"/E/mv/src/app/services/api.bonus.js",
+				"/E/mv/src/app/services/api.card.js",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/fly/src/fly.js",
+				"/E/mv/node_modules/hosted-git-info/git-host.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
 				"/E/mv/src/app/directives/mw-message-list.js",
 				"/E/mv/src/app/app-pro/routes.js",
-				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
 				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
 				"/E/mv/src/app/template/send-coupon/style.less",
-				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
 				"/E/mv/src/app/template/send-coupon/controller.js",
 				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
 				"/E/mv/src/app/template/rechange/index.html",
-				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
-				"/E/mv/src/app/app-pro/app_main.js",
-				"/E/mv/src/app/template/mw-message-list.html",
 				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
 			],
 			"find":
 			{
-				"height": 49.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -354,6 +324,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"vm.ladder_bonus",
+					"setpCommission",
+					"DialogController",
 					"detail",
 					"DialogController",
 					"locals",
@@ -387,188 +360,35 @@
 			"groups":
 			[
 				{
-					"selected": 5,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/mv/src/app/app-pro/app_main.js",
+							"file": "/E/mv/src/app/views/bonus/ladder/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 105140,
+								"buffer_size": 5807,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										36672,
-										36672
+										4000,
+										4000
 									]
 								],
 								"settings":
 								{
-									"auto_complete": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 20048.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/mv/src/app/template/mw-message-list.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8780,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										6820,
-										6820
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
+									"auto_complete": false,
 									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/E/mv/src/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 24753,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										8178,
-										8191
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3969.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 10627,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										6151,
-										6151
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3409.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3751,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2419,
-										2419
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1215.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 217,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										217,
-										217
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1575.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -579,7 +399,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 35.0
+				"height": 33.0
 			},
 			"input":
 			{
@@ -617,11 +437,11 @@
 				"height": 162.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,907,1991,368,2647",
+			"position": "0,2,3,-1,-1,-1,-1,907,1991,368,2647",
 			"project": "",
 			"replace":
 			{
-				"height": 66.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
