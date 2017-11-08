@@ -190,6 +190,22 @@
 				"selected_items":
 				[
 					[
+						"ng",
+						"ng-if"
+					],
+					[
+						"sta",
+						"stepStart"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"te",
+						"tempItem"
+					],
+					[
 						"end",
 						"endY"
 					]
@@ -198,11 +214,19 @@
 			"buffers":
 			[
 				{
-					"file": "/E/mv/src/app/views/bonus/ladder/index.html",
+					"file": "/E/mv/src/app/app-myy/bootstrap.js",
 					"settings":
 					{
-						"buffer_size": 5807,
+						"buffer_size": 12442,
 						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/template/member-level/style.less",
+					"settings":
+					{
+						"buffer_size": 523,
 						"line_ending": "Windows"
 					}
 				}
@@ -214,10 +238,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
-				"last_filter": "git:status",
+				"height": 137.0,
+				"last_filter": "install pa",
 				"selected_items":
 				[
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
 					[
 						"git:status",
 						"Git: Status"
@@ -275,6 +303,11 @@
 				"/E/mv",
 				"/E/mv/src",
 				"/E/mv/src/app",
+				"/E/mv/src/app/app-myy",
+				"/E/mv/src/app/app-pro",
+				"/E/mv/src/app/template",
+				"/E/mv/src/app/template/bonus",
+				"/E/mv/src/app/template/member-level",
 				"/E/mv/src/app/views",
 				"/E/mv/src/app/views/bonus",
 				"/E/mv/src/app/views/bonus/ladder",
@@ -283,19 +316,27 @@
 			],
 			"file_history":
 			[
-				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/E/mv/src/sign.html",
+				"/E/mv/src/sign2.html",
+				"/E/mv/src/myy.html",
+				"/E/mv/src/lite.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/app-pro/bootstrap.js",
+				"/E/mv/src/app/app-myy/bootstrap.js",
+				"/E/mv/src/app/app-lite/bootstrap.js",
+				"/E/mv/src/app/app-pro/app_main.js",
 				"/E/mv/src/app/views/bonus/ladder/index.html",
-				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
 				"/E/mv/src/app/views/bonus/ladder/controller.js",
 				"/E/mv/src/app/services/api.bonus.js",
-				"/E/mv/src/app/services/api.card.js",
+				"/E/mv/src/app/app-pro/app.js",
 				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/E/mv/src/app/services/api.card.js",
 				"/E/fly/src/fly.js",
 				"/E/mv/node_modules/hosted-git-info/git-host.js",
 				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
-				"/E/mv/src/app/app-pro/app_main.js",
 				"/E/mv/src/app/template/mw-message-list.html",
-				"/E/mv/src/index.html",
 				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
 				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
 				"/E/mv/src/app/directives/mw-message-list.js",
@@ -309,7 +350,7 @@
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 47.0
 			},
 			"find_in_files":
 			{
@@ -324,6 +365,16 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"2.4.6",
+					"2.3.4.6",
+					"vm.menus",
+					"console.log",
+					"api_bonus.get_bonus_list",
+					"fen",
+					"vm.setpCommission",
+					"bonus_step_cycle_type_list",
+					"DialogController",
+					"init_source",
 					"vm.ladder_bonus",
 					"setpCommission",
 					"DialogController",
@@ -360,35 +411,66 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/mv/src/app/views/bonus/ladder/index.html",
+							"file": "/E/mv/src/app/app-myy/bootstrap.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5807,
+								"buffer_size": 12442,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4000,
-										4000
+										12018,
+										12018
 									]
 								],
 								"settings":
 								{
 									"auto_complete": false,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1575.0,
+								"translation.y": 6975.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/mv/src/app/template/member-level/style.less",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 523,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										281,
+										281
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+									"syntax": "Packages/LESS/LESS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -437,7 +519,7 @@
 				"height": 162.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,907,1991,368,2647",
+			"position": "0,2,3,-32000,-32000,-1,-1,907,1991,368,2647",
 			"project": "",
 			"replace":
 			{
