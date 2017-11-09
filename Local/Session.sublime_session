@@ -190,6 +190,42 @@
 				"selected_items":
 				[
 					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"lay",
+						"layout=\"row"
+					],
+					[
+						"layout",
+						"layout-align"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
 						"ng",
 						"ng-if"
 					],
@@ -214,19 +250,74 @@
 			"buffers":
 			[
 				{
-					"file": "/E/mv/src/app/app-myy/bootstrap.js",
+					"file": "/E/mv/src/app/views/bonus/service-item/index.html",
 					"settings":
 					{
-						"buffer_size": 12442,
+						"buffer_size": 8456,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/mv/src/app/template/member-level/style.less",
+					"file": "/E/mv/src/app/views/bonus/card/index.html",
 					"settings":
 					{
-						"buffer_size": 523,
+						"buffer_size": 7117,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/bonus/product/index.html",
+					"settings":
+					{
+						"buffer_size": 7141,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/bonus/package/index.html",
+					"settings":
+					{
+						"buffer_size": 7907,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/bonus/voucher/index.html",
+					"settings":
+					{
+						"buffer_size": 7175,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/bonus/ladder/index.html",
+					"settings":
+					{
+						"buffer_size": 6154,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/template/mw-message-list.html",
+					"settings":
+					{
+						"buffer_size": 8780,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/app-pro/app_main.js",
+					"settings":
+					{
+						"buffer_size": 105455,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
@@ -303,31 +394,43 @@
 				"/E/mv",
 				"/E/mv/src",
 				"/E/mv/src/app",
-				"/E/mv/src/app/app-myy",
 				"/E/mv/src/app/app-pro",
 				"/E/mv/src/app/template",
 				"/E/mv/src/app/template/bonus",
 				"/E/mv/src/app/template/member-level",
 				"/E/mv/src/app/views",
 				"/E/mv/src/app/views/bonus",
-				"/E/mv/src/app/views/bonus/ladder",
-				"/E/mv/src/app/views/store-stock",
-				"/E/mv/src/app/views/store-stock/store-stock-purchase-record"
+				"/E/mv/src/app/views/bonus/ladder"
 			],
 			"file_history":
 			[
+				"/E/mv/src/app/views/bonus/ladder/index.html",
+				"/E/mv/src/style/app.less",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/E/mv/src/app/views/bonus/ladder/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/index.html",
+				"/E/mv/src/app/views/bonus/package/index.html",
+				"/E/mv/src/app/views/bonus/package/controller.js",
+				"/E/mv/src/app/views/bonus/voucher/index.html",
+				"/E/mv/src/app/views/bonus/voucher/controller.js",
+				"/E/mv/src/app/views/bonus/product/index.html",
+				"/E/mv/src/app/views/bonus/product/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/style.less",
+				"/E/mv/src/app/views/bonus/service-item/controller.js",
+				"/E/mv/src/app/services/api.bonus.js",
+				"/E/mv/src/app/views/bonus/card/controller.js",
+				"/E/mv/src/app/views/bonus/card/index.html",
+				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
+				"/E/mv/src/app/app-myy/bootstrap.js",
+				"/E/mv/src/app/template/member-level/style.less",
 				"/E/mv/src/sign.html",
 				"/E/mv/src/sign2.html",
 				"/E/mv/src/myy.html",
 				"/E/mv/src/lite.html",
-				"/E/mv/src/index.html",
 				"/E/mv/src/app/app-pro/bootstrap.js",
-				"/E/mv/src/app/app-myy/bootstrap.js",
 				"/E/mv/src/app/app-lite/bootstrap.js",
-				"/E/mv/src/app/app-pro/app_main.js",
-				"/E/mv/src/app/views/bonus/ladder/index.html",
-				"/E/mv/src/app/views/bonus/ladder/controller.js",
-				"/E/mv/src/app/services/api.bonus.js",
 				"/E/mv/src/app/app-pro/app.js",
 				"/E/mv/src/app/services/api.baseinfo.js",
 				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
@@ -357,6 +460,7 @@
 				"height": 167.0,
 				"where_history":
 				[
+					"E:\\mv",
 					"E:\\mv\\src"
 				]
 			},
@@ -365,6 +469,15 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"css",
+					";\n",
+					"notify-wrap",
+					"datetimepicker",
+					"third_style",
+					"信息提示",
+					"api_bonus.get_bonus_list",
+					"vm.page",
+					"init_source",
 					"2.4.6",
 					"2.3.4.6",
 					"vm.menus",
@@ -411,24 +524,241 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 6,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/mv/src/app/app-myy/bootstrap.js",
+							"file": "/E/mv/src/app/views/bonus/service-item/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 12442,
+								"buffer_size": 8456,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										12018,
-										12018
+										7723,
+										7723
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3151.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/mv/src/app/views/bonus/card/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7117,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6615,
+										6639
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2700.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/mv/src/app/views/bonus/product/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7141,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6664,
+										6664
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2751.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/mv/src/app/views/bonus/package/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7907,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7907,
+										7907
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2974.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/mv/src/app/views/bonus/voucher/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7175,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6698,
+										6698
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2851.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/E/mv/src/app/views/bonus/ladder/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6154,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5748,
+										5748
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2424.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/E/mv/src/app/template/mw-message-list.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8780,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7904,
+										7904
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2625.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/E/mv/src/app/app-pro/app_main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 105455,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										37931,
+										37931
 									]
 								],
 								"settings":
@@ -439,41 +769,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 6975.0,
+								"translation.y": 19098.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/mv/src/app/template/member-level/style.less",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 523,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										281,
-										281
-									]
-								],
-								"settings":
-								{
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
-									"syntax": "Packages/LESS/LESS.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -485,7 +784,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 46.0
 			},
 			"layout":
 			{

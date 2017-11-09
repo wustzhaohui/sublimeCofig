@@ -1,0 +1,1595 @@
+{
+	"folder_history":
+	[
+		"/E/saas-wechat-business",
+		"/E/mv",
+		"/E/my-vueDemo"
+	],
+	"last_version": 3153,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"lay",
+						"layout=\"row"
+					],
+					[
+						"layout",
+						"layout-align"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"ng",
+						"ng-if"
+					],
+					[
+						"sta",
+						"stepStart"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"te",
+						"tempItem"
+					],
+					[
+						"end",
+						"endY"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 38.0,
+				"last_filter": "git:status",
+				"selected_items":
+				[
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git:diff",
+						"Git: Diff"
+					],
+					[
+						"git:pull",
+						"Git: Pull"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Pull"
+					],
+					[
+						"git:branch",
+						"Legit: Branches"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 199.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/E/mv/src/app/app-lite/app_main.js",
+				"/E/mv/src/lite.html",
+				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/style/app-lite.less",
+				"/E/mv/src/style/app-myy.less",
+				"/E/mv/src/style/app.less",
+				"/E/mv/src/myy.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/views/financial/summary/controller.js",
+				"/E/mv/src/app/app-pro/routes.js",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/controller.js",
+				"/E/mv/src/app/views/financial-new/controller.js",
+				"/E/mv/src/app/template/member-source/controller.js",
+				"/E/mv/src/app/views/members/member-source-setting/index.html",
+				"/E/mv/src/app/views/members/member-source-setting/controller.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/src/app/views/bonus/service-item/index.html",
+				"/E/mv/src/app/views/bonus/card/index.html",
+				"/E/mv/src/app/views/bonus/product/index.html",
+				"/E/mv/src/app/views/bonus/package/index.html",
+				"/E/mv/src/app/views/bonus/voucher/index.html",
+				"/E/mv/src/app/views/bonus/ladder/index.html",
+				"/E/mv/src/app/views/bonus/ladder/controller.js",
+				"/E/mv/src/app/views/bonus/package/controller.js",
+				"/E/mv/src/app/views/bonus/voucher/controller.js",
+				"/E/mv/src/app/views/bonus/product/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/style.less",
+				"/E/mv/src/app/views/bonus/service-item/controller.js",
+				"/E/mv/src/app/services/api.bonus.js",
+				"/E/mv/src/app/views/bonus/card/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
+				"/E/mv/src/app/app-myy/bootstrap.js",
+				"/E/mv/src/app/template/member-level/style.less",
+				"/E/mv/src/sign.html",
+				"/E/mv/src/sign2.html",
+				"/E/mv/src/app/app-pro/bootstrap.js",
+				"/E/mv/src/app/app-lite/bootstrap.js",
+				"/E/mv/src/app/app-pro/app.js",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/E/mv/src/app/services/api.card.js",
+				"/E/fly/src/fly.js",
+				"/E/mv/node_modules/hosted-git-info/git-host.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
+				"/E/mv/src/app/directives/mw-message-list.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+				"/E/mv/src/app/template/send-coupon/style.less",
+				"/E/mv/src/app/template/send-coupon/controller.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
+				"/E/mv/src/app/template/rechange/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 167.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 322.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"lay",
+						"layout=\"row"
+					],
+					[
+						"layout",
+						"layout-align"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"ng",
+						"ng-if"
+					],
+					[
+						"sta",
+						"stepStart"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"te",
+						"tempItem"
+					],
+					[
+						"end",
+						"endY"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/saas-wechat-business/service-subtotal/pages/service-dynamics.vue",
+					"settings":
+					{
+						"buffer_size": 28984,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 38.0,
+				"last_filter": "git:status",
+				"selected_items":
+				[
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git:diff",
+						"Git: Diff"
+					],
+					[
+						"git:pull",
+						"Git: Pull"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Pull"
+					],
+					[
+						"git:branch",
+						"Legit: Branches"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 199.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/saas-wechat-business",
+				"/E/saas-wechat-business/service-subtotal",
+				"/E/saas-wechat-business/service-subtotal/pages"
+			],
+			"file_history":
+			[
+				"/E/saas-wechat-business/.eslintignore",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/E/mv/src/app/app-lite/app_main.js",
+				"/E/mv/src/lite.html",
+				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/style/app-lite.less",
+				"/E/mv/src/style/app-myy.less",
+				"/E/mv/src/style/app.less",
+				"/E/mv/src/myy.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/views/financial/summary/controller.js",
+				"/E/mv/src/app/app-pro/routes.js",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/controller.js",
+				"/E/mv/src/app/views/financial-new/controller.js",
+				"/E/mv/src/app/template/member-source/controller.js",
+				"/E/mv/src/app/views/members/member-source-setting/index.html",
+				"/E/mv/src/app/views/members/member-source-setting/controller.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/src/app/views/bonus/service-item/index.html",
+				"/E/mv/src/app/views/bonus/card/index.html",
+				"/E/mv/src/app/views/bonus/product/index.html",
+				"/E/mv/src/app/views/bonus/package/index.html",
+				"/E/mv/src/app/views/bonus/voucher/index.html",
+				"/E/mv/src/app/views/bonus/ladder/index.html",
+				"/E/mv/src/app/views/bonus/ladder/controller.js",
+				"/E/mv/src/app/views/bonus/package/controller.js",
+				"/E/mv/src/app/views/bonus/voucher/controller.js",
+				"/E/mv/src/app/views/bonus/product/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/style.less",
+				"/E/mv/src/app/views/bonus/service-item/controller.js",
+				"/E/mv/src/app/services/api.bonus.js",
+				"/E/mv/src/app/views/bonus/card/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
+				"/E/mv/src/app/app-myy/bootstrap.js",
+				"/E/mv/src/app/template/member-level/style.less",
+				"/E/mv/src/sign.html",
+				"/E/mv/src/sign2.html",
+				"/E/mv/src/app/app-pro/bootstrap.js",
+				"/E/mv/src/app/app-lite/bootstrap.js",
+				"/E/mv/src/app/app-pro/app.js",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/E/mv/src/app/services/api.card.js",
+				"/E/fly/src/fly.js",
+				"/E/mv/node_modules/hosted-git-info/git-host.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
+				"/E/mv/src/app/directives/mw-message-list.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+				"/E/mv/src/app/template/send-coupon/style.less",
+				"/E/mv/src/app/template/send-coupon/controller.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
+				"/E/mv/src/app/template/rechange/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 167.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\saas-wechat-business"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/saas-wechat-business/service-subtotal/pages/service-dynamics.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28984,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7741,
+										7741
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3450.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,836,1857,297,2513",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 322.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 8,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"lay",
+						"layout=\"row"
+					],
+					[
+						"layout",
+						"layout-align"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"ng",
+						"ng-if"
+					],
+					[
+						"sta",
+						"stepStart"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"te",
+						"tempItem"
+					],
+					[
+						"end",
+						"endY"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/my-vueDemo/src/components/HelloWorld.vue",
+					"settings":
+					{
+						"buffer_size": 287,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/my-vueDemo/src/filter/filter.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/my-vueDemo/build/webpack.base.conf.js",
+					"settings":
+					{
+						"buffer_size": 1817,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 38.0,
+				"last_filter": "git:status",
+				"selected_items":
+				[
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git:diff",
+						"Git: Diff"
+					],
+					[
+						"git:pull",
+						"Git: Pull"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Pull"
+					],
+					[
+						"git:branch",
+						"Legit: Branches"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 199.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/my-vueDemo",
+				"/E/my-vueDemo/build",
+				"/E/my-vueDemo/src",
+				"/E/my-vueDemo/src/filter"
+			],
+			"file_history":
+			[
+				"/C/Users/hui-zhao/Desktop/index.html",
+				"/E/my-vueDemo/.eslintrc.js",
+				"/E/my-vueDemo/.editorconfig",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/E/mv/src/app/app-lite/app_main.js",
+				"/E/mv/src/lite.html",
+				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/style/app-lite.less",
+				"/E/mv/src/style/app-myy.less",
+				"/E/mv/src/style/app.less",
+				"/E/mv/src/myy.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/views/financial/summary/controller.js",
+				"/E/mv/src/app/app-pro/routes.js",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/controller.js",
+				"/E/mv/src/app/views/financial-new/controller.js",
+				"/E/mv/src/app/template/member-source/controller.js",
+				"/E/mv/src/app/views/members/member-source-setting/index.html",
+				"/E/mv/src/app/views/members/member-source-setting/controller.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/src/app/views/bonus/service-item/index.html",
+				"/E/mv/src/app/views/bonus/card/index.html",
+				"/E/mv/src/app/views/bonus/product/index.html",
+				"/E/mv/src/app/views/bonus/package/index.html",
+				"/E/mv/src/app/views/bonus/voucher/index.html",
+				"/E/mv/src/app/views/bonus/ladder/index.html",
+				"/E/mv/src/app/views/bonus/ladder/controller.js",
+				"/E/mv/src/app/views/bonus/package/controller.js",
+				"/E/mv/src/app/views/bonus/voucher/controller.js",
+				"/E/mv/src/app/views/bonus/product/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/style.less",
+				"/E/mv/src/app/views/bonus/service-item/controller.js",
+				"/E/mv/src/app/services/api.bonus.js",
+				"/E/mv/src/app/views/bonus/card/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
+				"/E/mv/src/app/app-myy/bootstrap.js",
+				"/E/mv/src/app/template/member-level/style.less",
+				"/E/mv/src/sign.html",
+				"/E/mv/src/sign2.html",
+				"/E/mv/src/app/app-pro/bootstrap.js",
+				"/E/mv/src/app/app-lite/bootstrap.js",
+				"/E/mv/src/app/app-pro/app.js",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/E/mv/src/app/services/api.card.js",
+				"/E/fly/src/fly.js",
+				"/E/mv/node_modules/hosted-git-info/git-host.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
+				"/E/mv/src/app/directives/mw-message-list.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+				"/E/mv/src/app/template/send-coupon/style.less",
+				"/E/mv/src/app/template/send-coupon/controller.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
+				"/E/mv/src/app/template/rechange/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 167.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\my-vueDemo"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/my-vueDemo/src/components/HelloWorld.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 287,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										275,
+										275
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/my-vueDemo/src/filter/filter.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/my-vueDemo/build/webpack.base.conf.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1817,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										848,
+										848
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 450.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,670,1717,131,2373",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 322.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 5,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"lay",
+						"layout=\"row"
+					],
+					[
+						"layout",
+						"layout-align"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"ng",
+						"ng-if"
+					],
+					[
+						"sta",
+						"stepStart"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"te",
+						"tempItem"
+					],
+					[
+						"end",
+						"endY"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/mv/src/app/views/wechat-bind-new/index.html",
+					"settings":
+					{
+						"buffer_size": 1079,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/wechat-bind-new/controller.js",
+					"settings":
+					{
+						"buffer_size": 1266,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 38.0,
+				"last_filter": "git:status",
+				"selected_items":
+				[
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git:diff",
+						"Git: Diff"
+					],
+					[
+						"git:pull",
+						"Git: Pull"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Pull"
+					],
+					[
+						"git:branch",
+						"Legit: Branches"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 199.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/mv",
+				"/E/mv/src",
+				"/E/mv/src/app",
+				"/E/mv/src/app/views",
+				"/E/mv/src/app/views/wechat-bind-new"
+			],
+			"file_history":
+			[
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/E/mv/src/sign2.html",
+				"/E/mv/src/sign.html",
+				"/E/mv/src/myy.html",
+				"/E/mv/src/lite.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/app-pro/bootstrap.js",
+				"/E/mv/src/app/app-myy/bootstrap.js",
+				"/E/mv/src/app/app-lite/bootstrap.js",
+				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/app/app-lite/app_main.js",
+				"/E/mv/src/style/app-lite.less",
+				"/E/mv/src/style/app-myy.less",
+				"/E/mv/src/style/app.less",
+				"/E/mv/src/app/views/financial/summary/controller.js",
+				"/E/mv/src/app/app-pro/routes.js",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/controller.js",
+				"/E/mv/src/app/views/financial-new/controller.js",
+				"/E/mv/src/app/template/member-source/controller.js",
+				"/E/mv/src/app/views/members/member-source-setting/index.html",
+				"/E/mv/src/app/views/members/member-source-setting/controller.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/src/app/views/bonus/service-item/index.html",
+				"/E/mv/src/app/views/bonus/card/index.html",
+				"/E/mv/src/app/views/bonus/product/index.html",
+				"/E/mv/src/app/views/bonus/package/index.html",
+				"/E/mv/src/app/views/bonus/voucher/index.html",
+				"/E/mv/src/app/views/bonus/ladder/index.html",
+				"/E/mv/src/app/views/bonus/ladder/controller.js",
+				"/E/mv/src/app/views/bonus/package/controller.js",
+				"/E/mv/src/app/views/bonus/voucher/controller.js",
+				"/E/mv/src/app/views/bonus/product/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/style.less",
+				"/E/mv/src/app/views/bonus/service-item/controller.js",
+				"/E/mv/src/app/services/api.bonus.js",
+				"/E/mv/src/app/views/bonus/card/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
+				"/E/mv/src/app/template/member-level/style.less",
+				"/E/mv/src/app/app-pro/app.js",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/E/mv/src/app/services/api.card.js",
+				"/E/fly/src/fly.js",
+				"/E/mv/node_modules/hosted-git-info/git-host.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
+				"/E/mv/src/app/directives/mw-message-list.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+				"/E/mv/src/app/template/send-coupon/style.less",
+				"/E/mv/src/app/template/send-coupon/controller.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
+				"/E/mv/src/app/template/rechange/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 167.0,
+				"where_history":
+				[
+					"E:\\mv\\src",
+					"E:\\mv",
+					"E:\\mv\\src"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"微信",
+					"2.4.7",
+					"下载中心",
+					"initS",
+					"task",
+					"addTask",
+					"vm.menus",
+					"运营数据",
+					"listMenu",
+					"downloa",
+					"initSocket",
+					"exportExcel",
+					"css",
+					";\n",
+					"notify-wrap",
+					"datetimepicker",
+					"third_style",
+					"信息提示",
+					"api_bonus.get_bonus_list",
+					"vm.page",
+					"init_source",
+					"2.4.6",
+					"2.3.4.6",
+					"vm.menus",
+					"console.log",
+					"api_bonus.get_bonus_list",
+					"fen",
+					"vm.setpCommission",
+					"bonus_step_cycle_type_list",
+					"DialogController",
+					"init_source",
+					"vm.ladder_bonus",
+					"setpCommission",
+					"DialogController",
+					"detail",
+					"DialogController",
+					"locals",
+					"DialogController",
+					"type",
+					"}\n",
+					"type",
+					"DialogStoreStockDetail",
+					"loadPrintData",
+					"筛选"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\mv"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/mv/src/app/views/wechat-bind-new/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1079,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										970,
+										970
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/mv/src/app/views/wechat-bind-new/controller.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1266,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1040,
+										1040
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 75.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,802,2186,263,2842",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 322.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
