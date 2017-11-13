@@ -1,12 +1,14 @@
 {
 	"folder_history":
 	[
+		"/E/webpack_demo",
+		"/E/mwcloud-vue",
+		"/E/my-vueDemo",
 		"/E/saas-wechat-business",
-		"/E/mv",
-		"/E/my-vueDemo"
+		"/E/mv"
 	],
 	"last_version": 3153,
-	"last_window_id": 8,
+	"last_window_id": 11,
 	"log_indexing": false,
 	"settings":
 	{
@@ -81,329 +83,6 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 38.0,
-				"last_filter": "git:status",
-				"selected_items":
-				[
-					[
-						"git:status",
-						"Git: Status"
-					],
-					[
-						"install pa",
-						"Package Control: Install Package"
-					],
-					[
-						"git:diff",
-						"Git: Diff"
-					],
-					[
-						"git:pull",
-						"Git: Pull"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"git",
-						"Git: Pull"
-					],
-					[
-						"git:branch",
-						"Legit: Branches"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					]
-				],
-				"width": 540.0
-			},
-			"console":
-			{
-				"height": 199.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/E/mv/src/app/app-pro/app_main.js",
-				"/E/mv/src/app/app-lite/app_main.js",
-				"/E/mv/src/lite.html",
-				"/E/mv/src/app/app-myy/app_main.js",
-				"/E/mv/src/style/app-lite.less",
-				"/E/mv/src/style/app-myy.less",
-				"/E/mv/src/style/app.less",
-				"/E/mv/src/myy.html",
-				"/E/mv/src/index.html",
-				"/E/mv/src/app/views/financial/summary/controller.js",
-				"/E/mv/src/app/app-pro/routes.js",
-				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
-				"/E/mv/src/app/views/sales-wechat/wechat-financial/controller.js",
-				"/E/mv/src/app/views/financial-new/controller.js",
-				"/E/mv/src/app/template/member-source/controller.js",
-				"/E/mv/src/app/views/members/member-source-setting/index.html",
-				"/E/mv/src/app/views/members/member-source-setting/controller.js",
-				"/E/mv/src/app/template/mw-message-list.html",
-				"/E/mv/src/app/views/bonus/service-item/index.html",
-				"/E/mv/src/app/views/bonus/card/index.html",
-				"/E/mv/src/app/views/bonus/product/index.html",
-				"/E/mv/src/app/views/bonus/package/index.html",
-				"/E/mv/src/app/views/bonus/voucher/index.html",
-				"/E/mv/src/app/views/bonus/ladder/index.html",
-				"/E/mv/src/app/views/bonus/ladder/controller.js",
-				"/E/mv/src/app/views/bonus/package/controller.js",
-				"/E/mv/src/app/views/bonus/voucher/controller.js",
-				"/E/mv/src/app/views/bonus/product/controller.js",
-				"/E/mv/src/app/views/bonus/service-item/style.less",
-				"/E/mv/src/app/views/bonus/service-item/controller.js",
-				"/E/mv/src/app/services/api.bonus.js",
-				"/E/mv/src/app/views/bonus/card/controller.js",
-				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
-				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
-				"/E/mv/src/app/app-myy/bootstrap.js",
-				"/E/mv/src/app/template/member-level/style.less",
-				"/E/mv/src/sign.html",
-				"/E/mv/src/sign2.html",
-				"/E/mv/src/app/app-pro/bootstrap.js",
-				"/E/mv/src/app/app-lite/bootstrap.js",
-				"/E/mv/src/app/app-pro/app.js",
-				"/E/mv/src/app/services/api.baseinfo.js",
-				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
-				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/E/mv/src/app/services/api.card.js",
-				"/E/fly/src/fly.js",
-				"/E/mv/node_modules/hosted-git-info/git-host.js",
-				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
-				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
-				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
-				"/E/mv/src/app/directives/mw-message-list.js",
-				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
-				"/E/mv/src/app/template/send-coupon/style.less",
-				"/E/mv/src/app/template/send-coupon/controller.js",
-				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
-				"/E/mv/src/app/template/rechange/index.html",
-				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
-			],
-			"find":
-			{
-				"height": 47.0
-			},
-			"find_in_files":
-			{
-				"height": 167.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 33.0
-			},
-			"input":
-			{
-				"height": 46.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.git-pull":
-			{
-				"height": 162.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 62.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 322.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 640.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"mar",
-						"margin-bottom"
-					],
-					[
-						"ma",
-						"margin-top"
-					],
-					[
-						"set",
-						"setTimeout〔function〕"
-					],
-					[
-						"tex",
-						"text-align"
-					],
-					[
-						"bor",
-						"border-radius"
-					],
-					[
-						"font-s",
-						"font-size"
-					],
-					[
-						"lay",
-						"layout=\"row"
-					],
-					[
-						"layout",
-						"layout-align"
-					],
-					[
-						"in",
-						"inline-block"
-					],
-					[
-						"ng",
-						"ng-if"
-					],
-					[
-						"sta",
-						"stepStart"
-					],
-					[
-						"for",
-						"forEach"
-					],
-					[
-						"te",
-						"tempItem"
-					],
-					[
-						"end",
-						"endY"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/E/mv/src/app/services/api.baseinfo.js",
-					"settings":
-					{
-						"buffer_size": 145986,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mv/src/app/views/members/index.html",
-					"settings":
-					{
-						"buffer_size": 17747,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mv/src/app/views/members/controller.js",
-					"settings":
-					{
-						"buffer_size": 54134,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mv/src/app/services/api.member.js",
-					"settings":
-					{
-						"buffer_size": 41066,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
 				"height": 269.0,
 				"last_filter": "install",
 				"selected_items":
@@ -464,23 +143,16 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/E/mv",
-				"/E/mv/src",
-				"/E/mv/src/app",
-				"/E/mv/src/app/services",
-				"/E/mv/src/app/views",
-				"/E/mv/src/app/views/members"
-			],
 			"file_history":
 			[
-				"/E/mv/src/app/app-myy/app_main.js",
-				"/E/mv/src/app/views/service-item-edit/controller.js",
-				"/E/mv/src/app/views/service-item-edit/index.html",
+				"/E/mv/src/app/services/api.member.js",
 				"/E/mv/src/app/services/api.baseinfo.js",
 				"/E/mv/src/app/views/members/index.html",
 				"/E/mv/src/app/views/members/controller.js",
+				"/E/package-lock.json",
+				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/app/views/service-item-edit/controller.js",
+				"/E/mv/src/app/views/service-item-edit/index.html",
 				"/E/mv/src/app/directives/mw-tags.js",
 				"/E/mv/src/app/template/card-detail/index.html",
 				"/E/mv/src/app/views/wechat-bind-new/index.html",
@@ -561,6 +233,1475 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"活动二维码及链接 ",
+					"一月",
+					"vm.store_list",
+					"来自",
+					"来自分析",
+					"initParameters",
+					"vm.queryParameters",
+					"initParameters",
+					"_dontLoadRoute",
+					"route",
+					"customSelect",
+					"loadData",
+					"route",
+					"watch",
+					" $route.updateParams",
+					"selectTags",
+					"vm.tags",
+					"selectTags",
+					"selectTabs",
+					"来自wifi",
+					"微信",
+					"2.4.7",
+					"下载中心",
+					"initS",
+					"task",
+					"addTask",
+					"vm.menus",
+					"运营数据",
+					"listMenu",
+					"downloa",
+					"initSocket",
+					"exportExcel",
+					"css",
+					";\n",
+					"notify-wrap",
+					"datetimepicker",
+					"third_style",
+					"信息提示",
+					"api_bonus.get_bonus_list",
+					"vm.page",
+					"init_source",
+					"2.4.6",
+					"2.3.4.6",
+					"vm.menus",
+					"console.log",
+					"api_bonus.get_bonus_list",
+					"fen",
+					"vm.setpCommission",
+					"bonus_step_cycle_type_list",
+					"DialogController",
+					"init_source",
+					"vm.ladder_bonus",
+					"setpCommission",
+					"DialogController",
+					"detail",
+					"DialogController",
+					"locals",
+					"DialogController",
+					"type",
+					"}\n",
+					"type",
+					"DialogStoreStockDetail",
+					"loadPrintData",
+					"筛选"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 393.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"lay",
+						"layout=\"row"
+					],
+					[
+						"layout",
+						"layout-align"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"ng",
+						"ng-if"
+					],
+					[
+						"sta",
+						"stepStart"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"te",
+						"tempItem"
+					],
+					[
+						"end",
+						"endY"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/webpack_demo/webpack.config.js",
+					"settings":
+					{
+						"buffer_size": 650,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/webpack_demo/package.json",
+					"settings":
+					{
+						"buffer_size": 784,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/E/webpack_demo/index.html",
+					"settings":
+					{
+						"buffer_size": 908,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/webpack_demo/App.vue",
+					"settings":
+					{
+						"buffer_size": 297,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 269.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git:diff",
+						"Git: Diff"
+					],
+					[
+						"git:pull",
+						"Git: Pull"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Pull"
+					],
+					[
+						"git:branch",
+						"Legit: Branches"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 199.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/webpack_demo"
+			],
+			"file_history":
+			[
+				"/E/mv/src/app/services/api.member.js",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/views/members/index.html",
+				"/E/mv/src/app/views/members/controller.js",
+				"/E/package-lock.json",
+				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/app/views/service-item-edit/controller.js",
+				"/E/mv/src/app/views/service-item-edit/index.html",
+				"/E/mv/src/app/directives/mw-tags.js",
+				"/E/mv/src/app/template/card-detail/index.html",
+				"/E/mv/src/app/views/wechat-bind-new/index.html",
+				"/E/mv/src/app/views/wechat-bind-new/controller.js",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/C/Users/hui-zhao/Desktop/openvpn-keys/host.localdomain.ovpn",
+				"/E/mv/src/sign2.html",
+				"/E/mv/src/sign.html",
+				"/E/mv/src/myy.html",
+				"/E/mv/src/lite.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/app-pro/bootstrap.js",
+				"/E/mv/src/app/app-myy/bootstrap.js",
+				"/E/mv/src/app/app-lite/bootstrap.js",
+				"/E/mv/src/app/app-lite/app_main.js",
+				"/E/mv/src/style/app-lite.less",
+				"/E/mv/src/style/app-myy.less",
+				"/E/mv/src/style/app.less",
+				"/E/mv/src/app/views/financial/summary/controller.js",
+				"/E/mv/src/app/app-pro/routes.js",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/controller.js",
+				"/E/mv/src/app/views/financial-new/controller.js",
+				"/E/mv/src/app/template/member-source/controller.js",
+				"/E/mv/src/app/views/members/member-source-setting/index.html",
+				"/E/mv/src/app/views/members/member-source-setting/controller.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/src/app/views/bonus/service-item/index.html",
+				"/E/mv/src/app/views/bonus/card/index.html",
+				"/E/mv/src/app/views/bonus/product/index.html",
+				"/E/mv/src/app/views/bonus/package/index.html",
+				"/E/mv/src/app/views/bonus/voucher/index.html",
+				"/E/mv/src/app/views/bonus/ladder/index.html",
+				"/E/mv/src/app/views/bonus/ladder/controller.js",
+				"/E/mv/src/app/views/bonus/package/controller.js",
+				"/E/mv/src/app/views/bonus/voucher/controller.js",
+				"/E/mv/src/app/views/bonus/product/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/style.less",
+				"/E/mv/src/app/views/bonus/service-item/controller.js",
+				"/E/mv/src/app/services/api.bonus.js",
+				"/E/mv/src/app/views/bonus/card/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
+				"/E/mv/src/app/template/member-level/style.less",
+				"/E/mv/src/app/app-pro/app.js",
+				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/E/mv/src/app/services/api.card.js",
+				"/E/fly/src/fly.js",
+				"/E/mv/node_modules/hosted-git-info/git-host.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
+				"/E/mv/src/app/directives/mw-message-list.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+				"/E/mv/src/app/template/send-coupon/style.less",
+				"/E/mv/src/app/template/send-coupon/controller.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
+				"/E/mv/src/app/template/rechange/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 167.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\webpack_demo"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/webpack_demo/webpack.config.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 650,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										513,
+										513
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JavaScript (Webpack).sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/webpack_demo/package.json",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 784,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/webpack_demo/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 908,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										798,
+										798
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/webpack_demo/App.vue",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 297,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										198,
+										198
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,844,1861,305,2517",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 393.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 11,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"lay",
+						"layout=\"row"
+					],
+					[
+						"layout",
+						"layout-align"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"ng",
+						"ng-if"
+					],
+					[
+						"sta",
+						"stepStart"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"te",
+						"tempItem"
+					],
+					[
+						"end",
+						"endY"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/my-vueDemo/build/webpack.base.conf.js",
+					"settings":
+					{
+						"buffer_size": 1817,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/my-vueDemo/src/main.js",
+					"settings":
+					{
+						"buffer_size": 403,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/my-vueDemo/build/webpack.dev.conf.js",
+					"settings":
+					{
+						"buffer_size": 1252,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 269.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git:diff",
+						"Git: Diff"
+					],
+					[
+						"git:pull",
+						"Git: Pull"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Pull"
+					],
+					[
+						"git:branch",
+						"Legit: Branches"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 199.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/my-vueDemo",
+				"/E/my-vueDemo/build",
+				"/E/my-vueDemo/config",
+				"/E/my-vueDemo/src"
+			],
+			"file_history":
+			[
+				"/E/my-vueDemo/package-lock.json",
+				"/E/my-vueDemo/package.json",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/views/members/index.html",
+				"/E/mv/src/app/views/members/controller.js",
+				"/E/mv/src/app/services/api.member.js",
+				"/E/package-lock.json",
+				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/app/views/service-item-edit/controller.js",
+				"/E/mv/src/app/views/service-item-edit/index.html",
+				"/E/mv/src/app/directives/mw-tags.js",
+				"/E/mv/src/app/template/card-detail/index.html",
+				"/E/mv/src/app/views/wechat-bind-new/index.html",
+				"/E/mv/src/app/views/wechat-bind-new/controller.js",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/C/Users/hui-zhao/Desktop/openvpn-keys/host.localdomain.ovpn",
+				"/E/mv/src/sign2.html",
+				"/E/mv/src/sign.html",
+				"/E/mv/src/myy.html",
+				"/E/mv/src/lite.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/app-pro/bootstrap.js",
+				"/E/mv/src/app/app-myy/bootstrap.js",
+				"/E/mv/src/app/app-lite/bootstrap.js",
+				"/E/mv/src/app/app-lite/app_main.js",
+				"/E/mv/src/style/app-lite.less",
+				"/E/mv/src/style/app-myy.less",
+				"/E/mv/src/style/app.less",
+				"/E/mv/src/app/views/financial/summary/controller.js",
+				"/E/mv/src/app/app-pro/routes.js",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/controller.js",
+				"/E/mv/src/app/views/financial-new/controller.js",
+				"/E/mv/src/app/template/member-source/controller.js",
+				"/E/mv/src/app/views/members/member-source-setting/index.html",
+				"/E/mv/src/app/views/members/member-source-setting/controller.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/src/app/views/bonus/service-item/index.html",
+				"/E/mv/src/app/views/bonus/card/index.html",
+				"/E/mv/src/app/views/bonus/product/index.html",
+				"/E/mv/src/app/views/bonus/package/index.html",
+				"/E/mv/src/app/views/bonus/voucher/index.html",
+				"/E/mv/src/app/views/bonus/ladder/index.html",
+				"/E/mv/src/app/views/bonus/ladder/controller.js",
+				"/E/mv/src/app/views/bonus/package/controller.js",
+				"/E/mv/src/app/views/bonus/voucher/controller.js",
+				"/E/mv/src/app/views/bonus/product/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/style.less",
+				"/E/mv/src/app/views/bonus/service-item/controller.js",
+				"/E/mv/src/app/services/api.bonus.js",
+				"/E/mv/src/app/views/bonus/card/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
+				"/E/mv/src/app/template/member-level/style.less",
+				"/E/mv/src/app/app-pro/app.js",
+				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/E/mv/src/app/services/api.card.js",
+				"/E/fly/src/fly.js",
+				"/E/mv/node_modules/hosted-git-info/git-host.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
+				"/E/mv/src/app/directives/mw-message-list.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+				"/E/mv/src/app/template/send-coupon/style.less",
+				"/E/mv/src/app/template/send-coupon/controller.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
+				"/E/mv/src/app/template/rechange/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 167.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "E:\\my-vueDemo"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/my-vueDemo/build/webpack.base.conf.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1817,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										642,
+										642
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/my-vueDemo/src/main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 403,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										403,
+										403
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/my-vueDemo/build/webpack.dev.conf.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1252,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git-pull":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,862,2023,323,2679",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 322.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 9,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"ma",
+						"margin-top"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"lay",
+						"layout=\"row"
+					],
+					[
+						"layout",
+						"layout-align"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"ng",
+						"ng-if"
+					],
+					[
+						"sta",
+						"stepStart"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"te",
+						"tempItem"
+					],
+					[
+						"end",
+						"endY"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/mv/src/app/views/members/controller.js",
+					"settings":
+					{
+						"buffer_size": 54134,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Searching 1225 files for \"angular.dialog.dialogEidtMember\"\n\nE:\\mv\\src\\app\\template\\booking\\edit\\controller.js:\n  181  \n  182              $mdDialog.show({\n  183:                 controller: angular.dialog.dialogEidtMember,\n  184                  templateUrl: 'app/template/member/edit/dialog.member.html',\n  185                  parent: angular.element(document.body),\n\nE:\\mv\\src\\app\\views\\booking-table\\controller.js:\n  764                      if (permissionWithCode(\"member_create\")) {\n  765                          $mdDialog.show({\n  766:                             controller: angular.dialog.dialogEidtMember,\n  767                              templateUrl: 'app/template/member/edit/dialog.member.html',\n  768                              parent: angular.element(document.body),\n\nE:\\mv\\src\\app\\views\\call-record\\controller.js:\n  158                  }\n  159                  $mdDialog.show({\n  160:                     controller: angular.dialog.dialogEidtMember,\n  161                      templateUrl: 'app/template/member/edit/dialog.member.html',\n  162                      parent: angular.element(document.body),\n\nE:\\mv\\src\\app\\views\\members\\controller.js:\n  641                  if (memberPermission(\"member_create\")) {\n  642                      $mdDialog.show({\n  643:                         controller: angular.dialog.dialogEidtMember,\n  644                          templateUrl: 'app/template/member/edit/dialog.member.html',\n  645                          parent: angular.element(document.body),\n  ...\n 1192                      }\n 1193                      $mdDialog.show({\n 1194:                         controller: angular.dialog.dialogEidtMember,\n 1195                          templateUrl: 'app/template/member/edit/dialog.member.html',\n 1196                          parent: angular.element(document.body),\n\nE:\\mv\\src\\app\\views\\members\\detail\\controller.js:\n  259                  if (memberPermission(\"member_modify\")) {\n  260                      $mdDialog.show({\n  261:                         controller: angular.dialog.dialogEidtMember,\n  262                          templateUrl: 'app/template/member/edit/dialog.member.html',\n  263                          parent: angular.element(document.body),\n\nE:\\mv\\src\\app\\views\\order\\controller.js:\n 3730                      //templateUrl: 'app/template/quick_creat_member/index.html',\n 3731                      //controller: angular.dialog.DialogQuickAddMember,\n 3732:                     controller: angular.dialog.dialogEidtMember,\n 3733                      templateUrl: 'app/template/member/edit/dialog.member.html',\n 3734                      parent: angular.element(document.body),\n\nE:\\mv\\src\\app\\views\\order\\controller2.js:\n 3545                      //templateUrl: 'app/template/quick_creat_member/index.html',\n 3546                      //controller: angular.dialog.DialogQuickAddMember,\n 3547:                     controller: angular.dialog.dialogEidtMember,\n 3548                      templateUrl: 'app/template/member/edit/dialog.member.html',\n 3549                      parent: angular.element(document.body),\n\n8 matches across 7 files\n",
+					"settings":
+					{
+						"buffer_size": 3125,
+						"line_ending": "Windows",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/order/controller.js",
+					"settings":
+					{
+						"buffer_size": 229666,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/members/index.html",
+					"settings":
+					{
+						"buffer_size": 17747,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/template/member/edit/controller.js",
+					"settings":
+					{
+						"buffer_size": 18839,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/services/api.member.js",
+					"settings":
+					{
+						"buffer_size": 41066,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
+					"settings":
+					{
+						"buffer_size": 220,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/members/member-level/controller.js",
+					"settings":
+					{
+						"buffer_size": 5726,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/members/member-life/controller.js",
+					"settings":
+					{
+						"buffer_size": 4876,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/members/member-point/controller.js",
+					"settings":
+					{
+						"buffer_size": 4784,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/members/member-query/controller.js",
+					"settings":
+					{
+						"buffer_size": 28841,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/app/views/members/member-source-setting/controller.js",
+					"settings":
+					{
+						"buffer_size": 5328,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 269.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git:status",
+						"Git: Status"
+					],
+					[
+						"install pa",
+						"Package Control: Install Package"
+					],
+					[
+						"git:diff",
+						"Git: Diff"
+					],
+					[
+						"git:pull",
+						"Git: Pull"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"git",
+						"Git: Pull"
+					],
+					[
+						"git:branch",
+						"Legit: Branches"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 199.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/E/mv",
+				"/E/mv/src",
+				"/E/mv/src/app",
+				"/E/mv/src/app/services",
+				"/E/mv/src/app/template",
+				"/E/mv/src/app/template/member",
+				"/E/mv/src/app/views",
+				"/E/mv/src/app/views/order"
+			],
+			"file_history":
+			[
+				"/E/mv/src/app/template/member/edit/dialog.member.html",
+				"/E/mv/src/app/views/order/index2.html",
+				"/E/mv/src/app/views/order/controller2.js",
+				"/E/mv/src/app/views/merchant-info/index.html",
+				"/E/mv/src/app/views/merchant-info/controller.js",
+				"/E/mv/src/app/services/api.merchant.js",
+				"/E/mv/src/app/views/sales-wechat/style.less",
+				"/E/mv/src/app/app-pro/routes.js",
+				"/E/mv/src/app/views/sales-wechat/my-partin-active/index.html",
+				"/E/mv/src/app/views/sales-wechat/my-partin-active/my-partin-active-list.html",
+				"/E/mv/src/app/services/api.member.js",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/views/members/index.html",
+				"/E/mv/src/app/views/members/controller.js",
+				"/E/package-lock.json",
+				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/app/views/service-item-edit/controller.js",
+				"/E/mv/src/app/views/service-item-edit/index.html",
+				"/E/mv/src/app/directives/mw-tags.js",
+				"/E/mv/src/app/template/card-detail/index.html",
+				"/E/mv/src/app/views/wechat-bind-new/index.html",
+				"/E/mv/src/app/views/wechat-bind-new/controller.js",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/C/Users/hui-zhao/Desktop/openvpn-keys/host.localdomain.ovpn",
+				"/E/mv/src/sign2.html",
+				"/E/mv/src/sign.html",
+				"/E/mv/src/myy.html",
+				"/E/mv/src/lite.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/app-pro/bootstrap.js",
+				"/E/mv/src/app/app-myy/bootstrap.js",
+				"/E/mv/src/app/app-lite/bootstrap.js",
+				"/E/mv/src/app/app-lite/app_main.js",
+				"/E/mv/src/style/app-lite.less",
+				"/E/mv/src/style/app-myy.less",
+				"/E/mv/src/style/app.less",
+				"/E/mv/src/app/views/financial/summary/controller.js",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
+				"/E/mv/src/app/views/sales-wechat/wechat-financial/controller.js",
+				"/E/mv/src/app/views/financial-new/controller.js",
+				"/E/mv/src/app/template/member-source/controller.js",
+				"/E/mv/src/app/views/members/member-source-setting/index.html",
+				"/E/mv/src/app/views/members/member-source-setting/controller.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/src/app/views/bonus/service-item/index.html",
+				"/E/mv/src/app/views/bonus/card/index.html",
+				"/E/mv/src/app/views/bonus/product/index.html",
+				"/E/mv/src/app/views/bonus/package/index.html",
+				"/E/mv/src/app/views/bonus/voucher/index.html",
+				"/E/mv/src/app/views/bonus/ladder/index.html",
+				"/E/mv/src/app/views/bonus/ladder/controller.js",
+				"/E/mv/src/app/views/bonus/package/controller.js",
+				"/E/mv/src/app/views/bonus/voucher/controller.js",
+				"/E/mv/src/app/views/bonus/product/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/style.less",
+				"/E/mv/src/app/views/bonus/service-item/controller.js",
+				"/E/mv/src/app/services/api.bonus.js",
+				"/E/mv/src/app/views/bonus/card/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
+				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
+				"/E/mv/src/app/template/member-level/style.less",
+				"/E/mv/src/app/app-pro/app.js",
+				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/E/mv/src/app/services/api.card.js",
+				"/E/fly/src/fly.js",
+				"/E/mv/node_modules/hosted-git-info/git-host.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
+				"/E/mv/src/app/directives/mw-message-list.js",
+				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
+				"/E/mv/src/app/template/send-coupon/style.less",
+				"/E/mv/src/app/template/send-coupon/controller.js",
+				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
+				"/E/mv/src/app/template/rechange/index.html",
+				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 167.0,
+				"where_history":
+				[
+					"E:\\mv\\src",
+					"E:\\mv",
+					"E:\\mv\\src"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"show_quick_creat_member_dialog",
+					"angular.dialog.dialogEidtMember",
+					"api_member.newUser",
+					"saveMemberDialog",
+					"upgradeMember",
+					"source",
+					"upgradeMember",
+					"vm.mch_info",
+					"businessScopes",
+					"api_merchant.get_merchant",
+					"vm.mch_info.businessScopes",
+					"vm.mch_info",
+					"vm.mch_info.businessScopes",
+					"活动二维码及链接 ",
 					"一月",
 					"vm.store_list",
 					"来自",
@@ -647,71 +1788,11 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 6,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/mv/src/app/services/api.baseinfo.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 145986,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										9078,
-										9079
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 5498.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/mv/src/app/views/members/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 17747,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1927,
-										1927
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
 							"file": "/E/mv/src/app/views/members/controller.js",
 							"semi_transient": false,
 							"settings":
@@ -723,8 +1804,113 @@
 								"selection":
 								[
 									[
-										35018,
-										35018
+										47447,
+										47478
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 29598.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3125,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												190,
+												221
+											],
+											[
+												584,
+												615
+											],
+											[
+												939,
+												970
+											],
+											[
+												1321,
+												1352
+											],
+											[
+												1638,
+												1669
+											],
+											[
+												2035,
+												2066
+											],
+											[
+												2477,
+												2508
+											],
+											[
+												2912,
+												2943
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										2480,
+										2480
+									]
+								],
+								"settings":
+								{
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([^ \t].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 750.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/mv/src/app/views/order/controller.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 229666,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										199100,
+										199130
 									]
 								],
 								"settings":
@@ -734,14 +1920,75 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 21548.0,
+								"translation.y": 92817.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
+							"file": "/E/mv/src/app/views/members/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17747,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13700,
+										13713
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4840.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/mv/src/app/template/member/edit/controller.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18839,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15674,
+										15682
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 10373.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
 							"file": "/E/mv/src/app/services/api.member.js",
 							"semi_transient": false,
 							"settings":
@@ -753,8 +2000,67 @@
 								"selection":
 								[
 									[
-										933,
-										933
+										16969,
+										16969
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9398.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 220,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										220,
+										220
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/E/mv/src/app/views/members/member-level/controller.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5726,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										917,
+										917
 									]
 								],
 								"settings":
@@ -768,7 +2074,131 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/E/mv/src/app/views/members/member-life/controller.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4876,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										816,
+										816
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/E/mv/src/app/views/members/member-point/controller.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4784,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1031,
+										1031
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/E/mv/src/app/views/members/member-query/controller.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28841,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1331,
+										1331
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/E/mv/src/app/views/members/member-source-setting/controller.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5328,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1181,
+										1181
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
 							"type": "text"
 						}
 					]
@@ -814,7 +2244,7 @@
 				"height": 162.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,802,2186,263,2842",
+			"position": "0,2,3,-32000,-32000,-1,-1,802,2186,263,2842",
 			"project": "",
 			"replace":
 			{
@@ -856,7 +2286,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 322.0,
+			"side_bar_width": 393.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
