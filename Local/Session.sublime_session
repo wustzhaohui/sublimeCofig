@@ -1,12 +1,14 @@
 {
 	"folder_history":
 	[
-		"/E/saas-wechat-business",
 		"/E/mv",
-		"/E/my-vueDemo"
+		"/E/webpack_demo",
+		"/E/mwcloud-vue",
+		"/E/my-vueDemo",
+		"/E/saas-wechat-business"
 	],
 	"last_version": 3153,
-	"last_window_id": 8,
+	"last_window_id": 12,
 	"log_indexing": false,
 	"settings":
 	{
@@ -81,10 +83,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 38.0,
-				"last_filter": "git:status",
+				"height": 269.0,
+				"last_filter": "install",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"git:status",
 						"Git: Status"
@@ -100,10 +106,6 @@
 					[
 						"git:pull",
 						"Git: Pull"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"remove",
@@ -143,15 +145,35 @@
 			},
 			"file_history":
 			[
-				"/E/mv/src/app/app-pro/app_main.js",
-				"/E/mv/src/app/app-lite/app_main.js",
-				"/E/mv/src/lite.html",
+				"/E/webpack_demo/index.html",
+				"/E/webpack_demo/App.vue",
+				"/E/webpack_demo/webpack.config.js",
+				"/E/mv/src/app/services/api.member.js",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/views/members/index.html",
+				"/E/mv/src/app/views/members/controller.js",
+				"/E/package-lock.json",
 				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/app/views/service-item-edit/controller.js",
+				"/E/mv/src/app/views/service-item-edit/index.html",
+				"/E/mv/src/app/directives/mw-tags.js",
+				"/E/mv/src/app/template/card-detail/index.html",
+				"/E/mv/src/app/views/wechat-bind-new/index.html",
+				"/E/mv/src/app/views/wechat-bind-new/controller.js",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/C/Users/hui-zhao/Desktop/openvpn-keys/host.localdomain.ovpn",
+				"/E/mv/src/sign2.html",
+				"/E/mv/src/sign.html",
+				"/E/mv/src/myy.html",
+				"/E/mv/src/lite.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/app-pro/bootstrap.js",
+				"/E/mv/src/app/app-myy/bootstrap.js",
+				"/E/mv/src/app/app-lite/bootstrap.js",
+				"/E/mv/src/app/app-lite/app_main.js",
 				"/E/mv/src/style/app-lite.less",
 				"/E/mv/src/style/app-myy.less",
 				"/E/mv/src/style/app.less",
-				"/E/mv/src/myy.html",
-				"/E/mv/src/index.html",
 				"/E/mv/src/app/views/financial/summary/controller.js",
 				"/E/mv/src/app/app-pro/routes.js",
 				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
@@ -177,14 +199,8 @@
 				"/E/mv/src/app/views/bonus/card/controller.js",
 				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
 				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
-				"/E/mv/src/app/app-myy/bootstrap.js",
 				"/E/mv/src/app/template/member-level/style.less",
-				"/E/mv/src/sign.html",
-				"/E/mv/src/sign2.html",
-				"/E/mv/src/app/app-pro/bootstrap.js",
-				"/E/mv/src/app/app-lite/bootstrap.js",
 				"/E/mv/src/app/app-pro/app.js",
-				"/E/mv/src/app/services/api.baseinfo.js",
 				"/E/mv/src/app/template/bonus/dialog.ladder.edit.html",
 				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/E/mv/src/app/services/api.card.js",
@@ -285,7 +301,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 322.0,
+			"side_bar_width": 393.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -301,8 +317,104 @@
 				"selected_items":
 				[
 					[
+						"le",
+						"length"
+					],
+					[
+						"md-",
+						"md-input-container"
+					],
+					[
 						"mar",
-						"margin-bottom"
+						"margin-right"
+					],
+					[
+						"lay",
+						"layout-align"
+					],
+					[
+						"se",
+						"sender"
+					],
+					[
+						"storeid",
+						"storeIds"
+					],
+					[
+						"sto",
+						"storeId"
+					],
+					[
+						"st",
+						"storeId"
+					],
+					[
+						"ie",
+						"item"
+					],
+					[
+						"tempStore",
+						"tempStoreIds"
+					],
+					[
+						"source",
+						"sourceId"
+					],
+					[
+						"de",
+						"delete"
+					],
+					[
+						"stores",
+						"storeIds"
+					],
+					[
+						"store",
+						"storeIds"
+					],
+					[
+						"fun",
+						"function〔keyword〕"
+					],
+					[
+						"api",
+						"api.member"
+					],
+					[
+						"font-s",
+						"font-style"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"base",
+						"baseinfo"
+					],
+					[
+						"md-list",
+						"md-list-item"
+					],
+					[
+						"tex",
+						"text-right"
+					],
+					[
+						"tab",
+						"tab.value"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"msg",
+						"msg.data"
 					],
 					[
 						"ma",
@@ -311,22 +423,6 @@
 					[
 						"set",
 						"setTimeout〔function〕"
-					],
-					[
-						"tex",
-						"text-align"
-					],
-					[
-						"bor",
-						"border-radius"
-					],
-					[
-						"font-s",
-						"font-size"
-					],
-					[
-						"lay",
-						"layout=\"row"
 					],
 					[
 						"layout",
@@ -360,6 +456,55 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/E/mv/src/app/app-pro/app_main.js",
+					"settings":
+					{
+						"buffer_size": 105536,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "!",
+					"file": "/C/Users/hui-zhao/Desktop/test.html",
+					"file_size": 1,
+					"file_write_time": 131553643692174559,
+					"settings":
+					{
+						"buffer_size": 1,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nEmmet\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n",
+					"settings":
+					{
+						"buffer_size": 1688,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/E/mv/src/app/directives/mw-directives.js",
+					"settings":
+					{
+						"buffer_size": 84876,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/mv/src/index.html",
+					"settings":
+					{
+						"buffer_size": 25156,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -368,13 +513,25 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 269.0,
-				"last_filter": "install",
+				"height": 137.0,
+				"last_filter": "remove",
 				"selected_items":
 				[
 					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"intsall",
+						"Package Control: Install Package"
+					],
+					[
+						"sshtml ",
+						"Set Syntax: HTML"
 					],
 					[
 						"git:status",
@@ -391,10 +548,6 @@
 					[
 						"git:pull",
 						"Git: Pull"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"git",
@@ -432,57 +585,98 @@
 			[
 				"/E/mv",
 				"/E/mv/src",
-				"/E/mv/src/app"
+				"/E/mv/src/app",
+				"/E/mv/src/app/app-pro",
+				"/E/mv/src/app/directives",
+				"/E/mv/src/app/views",
+				"/E/mv/src/app/views/bonus",
+				"/E/mv/src/app/views/bonus/voucher"
 			],
 			"file_history":
 			[
-				"/E/mv/src/app/views/service-item-edit/controller.js",
-				"/E/mv/src/app/views/service-item-edit/index.html",
+				"/E/mv/src/app/views/bonus/voucher/index.html",
+				"/E/mv/src/app/views/bonus/card/index.html",
+				"/E/mv/src/app/views/bonus/product/index.html",
+				"/E/mv/src/app/views/bonus/package/index.html",
+				"/E/mv/src/app/views/booking/index.html",
+				"/E/mv/src/app/views/booking/controller.js",
+				"/E/mv/src/app/template/booking/edit/index.html",
+				"/E/mv/src/app/template/booking/edit/controller.js",
+				"/E/mv/src/app/app-lite/routes.js",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/directives/mw-directives.js",
+				"/E/mv/src/app/views/bonus/card/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/controller.js",
+				"/E/mv/src/app/views/bonus/product/controller.js",
+				"/E/mv/src/app/views/bonus/package/controller.js",
+				"/E/mv/src/app/views/bonus/voucher/controller.js",
 				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/views/bonus/service-item/index.html",
+				"/E/mv/src/app/views/coupon-list/controller.js",
+				"/E/mv/src/app/views/service-item-list/index.html",
+				"/E/mv/src/app/views/service-item-list/controller.js",
+				"/E/mv/src/app/views/product/list/controller.js",
+				"/E/mv/src/app/views/card-list/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/style.less",
+				"/E/mv/src/app/views/service-package-list/controller.js",
 				"/E/mv/src/app/views/members/index.html",
 				"/E/mv/src/app/views/members/controller.js",
+				"/E/mv/src/app/views/members/member-query/controller.js",
+				"/E/mv/src/app/views/members/member-query/index.html",
+				"/E/mv/src/app/services/api.member.js",
+				"/E/mv/src/app/views/booking-table/index.html",
+				"/E/mv/src/app/views/booking-table/controller.js",
+				"/E/mv/src/app/template/order-detail/controller.js",
+				"/E/mv/src/app/views/financial-new/controller.js",
+				"/E/mv/src/app/services/api.report.js",
+				"/E/mv/src/app/template/add-shifts/index.html",
+				"/E/mv/src/app/template/add-shifts/controller.js",
+				"/E/mv/src/app/views/financial-new/index.html",
+				"/E/mv/src/app/views/systemlog/index.html",
+				"/E/mv/src/app/template/order-detail/index.html",
+				"/E/mv/src/app/app-lite/app_main.js",
+				"/E/mv/src/app/services/api.order.js",
+				"/E/mv/src/app/template/order-detail/style.less",
+				"/E/mv/src/app/views/sales-wechat/group-operation/index.html",
+				"/E/mv/src/app/views/sales-wechat/group-operation/my-partin-active-list.html",
+				"/E/mv/src/app/filters/filter.js",
+				"/E/mv/src/app/views/order-list/index.html",
+				"/E/mv/src/app/views/order-list/controller.js",
+				"/E/mv/src/app/views/financial/summary/index.html",
+				"/E/mv/src/app/views/financial/summary/controller.js",
+				"/E/webpack_demo/index.html",
+				"/E/webpack_demo/App.vue",
+				"/E/webpack_demo/webpack.config.js",
+				"/E/package-lock.json",
+				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/app/views/service-item-edit/controller.js",
+				"/E/mv/src/app/views/service-item-edit/index.html",
 				"/E/mv/src/app/directives/mw-tags.js",
 				"/E/mv/src/app/template/card-detail/index.html",
 				"/E/mv/src/app/views/wechat-bind-new/index.html",
 				"/E/mv/src/app/views/wechat-bind-new/controller.js",
-				"/E/mv/src/app/app-pro/app_main.js",
 				"/C/Users/hui-zhao/Desktop/openvpn-keys/host.localdomain.ovpn",
 				"/E/mv/src/sign2.html",
 				"/E/mv/src/sign.html",
 				"/E/mv/src/myy.html",
 				"/E/mv/src/lite.html",
-				"/E/mv/src/index.html",
 				"/E/mv/src/app/app-pro/bootstrap.js",
 				"/E/mv/src/app/app-myy/bootstrap.js",
 				"/E/mv/src/app/app-lite/bootstrap.js",
-				"/E/mv/src/app/app-myy/app_main.js",
-				"/E/mv/src/app/app-lite/app_main.js",
 				"/E/mv/src/style/app-lite.less",
 				"/E/mv/src/style/app-myy.less",
 				"/E/mv/src/style/app.less",
-				"/E/mv/src/app/views/financial/summary/controller.js",
 				"/E/mv/src/app/app-pro/routes.js",
 				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
 				"/E/mv/src/app/views/sales-wechat/wechat-financial/controller.js",
-				"/E/mv/src/app/views/financial-new/controller.js",
 				"/E/mv/src/app/template/member-source/controller.js",
 				"/E/mv/src/app/views/members/member-source-setting/index.html",
 				"/E/mv/src/app/views/members/member-source-setting/controller.js",
 				"/E/mv/src/app/template/mw-message-list.html",
-				"/E/mv/src/app/views/bonus/service-item/index.html",
-				"/E/mv/src/app/views/bonus/card/index.html",
-				"/E/mv/src/app/views/bonus/product/index.html",
-				"/E/mv/src/app/views/bonus/package/index.html",
-				"/E/mv/src/app/views/bonus/voucher/index.html",
 				"/E/mv/src/app/views/bonus/ladder/index.html",
 				"/E/mv/src/app/views/bonus/ladder/controller.js",
-				"/E/mv/src/app/views/bonus/package/controller.js",
-				"/E/mv/src/app/views/bonus/voucher/controller.js",
-				"/E/mv/src/app/views/bonus/product/controller.js",
-				"/E/mv/src/app/views/bonus/service-item/style.less",
-				"/E/mv/src/app/views/bonus/service-item/controller.js",
 				"/E/mv/src/app/services/api.bonus.js",
-				"/E/mv/src/app/views/bonus/card/controller.js",
 				"/E/mv/src/app/views/wechat-market/wechat-market-order-list/controller.js",
 				"/E/mv/src/app/views/wechat-market/wechat-product-list/index.html",
 				"/E/mv/src/app/template/member-level/style.less",
@@ -512,9 +706,7 @@
 				"height": 167.0,
 				"where_history":
 				[
-					"E:\\mv\\src",
-					"E:\\mv",
-					"E:\\mv\\src"
+					""
 				]
 			},
 			"find_state":
@@ -522,68 +714,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"vm.store_list",
-					"来自",
-					"来自分析",
-					"initParameters",
-					"vm.queryParameters",
-					"initParameters",
-					"_dontLoadRoute",
-					"route",
-					"customSelect",
+					"!",
+					"vm.noticeList",
+					"noticeList",
+					"socket",
+					"searchMemberNameChange",
+					"querySearchMember",
+					"newBooking",
+					"get_product_type",
+					"init_source",
+					"init",
+					"item_type_change",
+					"get_product_type",
+					"init_source",
+					"$scope.vm.item_type",
+					"init_source",
+					"item_type_change",
+					"init_source",
+					"init",
+					"int",
+					"get_product_type",
+					"item_type_list",
+					"$scope.vm.item_type",
+					"在售",
+					"vm.query_tags",
+					"selectTags",
+					"initSelectTags",
+					"sourceId",
+					"initSelectTags",
 					"loadData",
+					"init",
+					"vm.tags",
+					"init",
+					"vm.guestSource",
+					"vm.tags",
+					"vm.queryPotentialParameters",
+					"init",
+					"initParameters",
+					"root",
+					"on",
+					"permission",
+					"vm.recordTag",
+					"initSelectTags",
+					"initParameters",
+					"vm.guestSource",
+					"init",
+					"标签",
+					"会员标签",
+					"$route",
+					"$route.on",
+					"$scope.on",
+					"init",
+					"loadData",
+					"initSelectTags",
+					"initpara",
+					"vm.queryPotentialParameters",
+					"delete",
+					"vm.queryParameters",
+					"vm.queryPotentialParameters",
+					"init",
+					"vm.queryPotentialParameters",
+					"$$se",
+					"initSelectTags",
+					"loadTagsWithType",
+					"tempStoreIds",
+					"loadTagsWithType",
+					"initParameters",
 					"route",
 					"watch",
-					" $route.updateParams",
 					"selectTags",
-					"vm.tags",
+					"initSocketConnect",
+					"storeIds",
+					"vm.storeIds",
+					"loadData",
+					"vm.queryPotentialParameters",
+					"loadData",
+					"vm.queryPotentialParameters",
+					"loadData",
+					"vm.queryParameters",
+					"loadData",
+					"vm.storeId",
+					"vm.queryPotentialParameters",
+					"loadData",
+					"initParameters",
+					"$route",
 					"selectTags",
+					"answer",
+					"self.selectedMember",
+					"answer",
+					"save",
+					"loadMemberList",
+					"querySearchMember",
+					"self.selectedMember",
+					"searchMemberNameChange",
+					"newBooking",
+					"searchPotentialSummary",
+					"vm.guestSource",
+					"permission",
+					"permisson",
+					"vm.guestSource",
+					"searchPotentialSummary",
+					"loadSources",
 					"selectTabs",
-					"来自wifi",
-					"微信",
-					"2.4.7",
-					"下载中心",
-					"initS",
-					"task",
-					"addTask",
-					"vm.menus",
-					"运营数据",
-					"listMenu",
-					"downloa",
-					"initSocket",
+					"vm.sources",
+					"});",
+					"permission",
+					"searchPotentialSummary",
+					"loadData",
+					"selectTabs",
+					"vm.overview",
+					"会员",
+					"getReportList",
+					"localStorage",
+					"微信商城",
+					"商户预约",
+					"商户",
+					"vm.store_list",
+					"searchPotentialSummary",
+					"loadData",
+					"locaData",
+					"loadData",
+					"searchPotentialSummary",
+					"init",
 					"exportExcel",
-					"css",
-					";\n",
-					"notify-wrap",
-					"datetimepicker",
-					"third_style",
-					"信息提示",
-					"api_bonus.get_bonus_list",
-					"vm.page",
-					"init_source",
-					"2.4.6",
-					"2.3.4.6",
-					"vm.menus",
-					"console.log",
-					"api_bonus.get_bonus_list",
-					"fen",
-					"vm.setpCommission",
-					"bonus_step_cycle_type_list",
-					"DialogController",
-					"init_source",
-					"vm.ladder_bonus",
-					"setpCommission",
-					"DialogController",
-					"detail",
-					"DialogController",
-					"locals",
-					"DialogController",
+					"vm.operatingRecordHeader",
+					"order_kind",
+					"loadData",
 					"type",
-					"}\n",
-					"type",
-					"DialogStoreStockDetail",
-					"loadPrintData",
-					"筛选"
+					"initSocketConnect"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -591,6 +849,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"!"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -607,8 +866,161 @@
 			"groups":
 			[
 				{
+					"selected": 1,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/E/mv/src/app/app-pro/app_main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 105536,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										73678,
+										73678
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 36748.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/hui-zhao/Desktop/test.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										1
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1688,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1534,
+										1534
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 450.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/mv/src/app/directives/mw-directives.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 84876,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										18636,
+										18636
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 798.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/mv/src/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25156,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3057,
+										3070
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1640.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -652,7 +1064,7 @@
 				"height": 162.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,802,2186,263,2842",
+			"position": "0,2,3,-1,-1,-1,-1,919,2132,380,2788",
 			"project": "",
 			"replace":
 			{
@@ -694,12 +1106,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 322.0,
+			"side_bar_width": 393.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 12,
 			"workspace_name": ""
 		}
 	],
