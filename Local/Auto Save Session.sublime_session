@@ -7,7 +7,7 @@
 		"/E/my-vueDemo",
 		"/E/saas-wechat-business"
 	],
-	"last_version": 3153,
+	"last_version": 3154,
 	"last_window_id": 12,
 	"log_indexing": false,
 	"settings":
@@ -317,6 +317,66 @@
 				"selected_items":
 				[
 					[
+						"set",
+						"setInterval〔function〕"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"qr",
+						"qrCode"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"lay",
+						"layout-align=〔attribute〕"
+					],
+					[
+						"get",
+						"get_permission_by_code"
+					],
+					[
+						"par",
+						"parent"
+					],
+					[
+						"te",
+						"tempEnd"
+					],
+					[
+						"cons",
+						"console.log"
+					],
+					[
+						"is",
+						"is_sim"
+					],
+					[
+						"mo",
+						"money"
+					],
+					[
+						"new",
+						"newVal〔argument〕"
+					],
+					[
+						"old",
+						"oldVal"
+					],
+					[
+						"sete",
+						"setTimeout〔function〕"
+					],
+					[
 						"le",
 						"length"
 					],
@@ -327,10 +387,6 @@
 					[
 						"mar",
 						"margin-right"
-					],
-					[
-						"lay",
-						"layout-align"
 					],
 					[
 						"se",
@@ -381,14 +437,6 @@
 						"api.member"
 					],
 					[
-						"font-s",
-						"font-style"
-					],
-					[
-						"pad",
-						"padding-left"
-					],
-					[
 						"base",
 						"baseinfo"
 					],
@@ -421,10 +469,6 @@
 						"margin-top"
 					],
 					[
-						"set",
-						"setTimeout〔function〕"
-					],
-					[
 						"layout",
 						"layout-align"
 					],
@@ -445,10 +489,6 @@
 						"forEach"
 					],
 					[
-						"te",
-						"tempItem"
-					],
-					[
 						"end",
 						"endY"
 					]
@@ -457,48 +497,28 @@
 			"buffers":
 			[
 				{
-					"file": "/E/mv/src/app/app-pro/app_main.js",
+					"file": "/E/mv/src/app/views/wechat-bind-new/index.html",
 					"settings":
 					{
-						"buffer_size": 105536,
+						"buffer_size": 1501,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/hui-zhao/Desktop/test.html",
+					"file": "/E/mv/src/app/views/wechat-bind-new/controller.js",
 					"settings":
 					{
-						"buffer_size": 121,
+						"buffer_size": 1807,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "Package Control Messages\n========================\n\nEmmet\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n  Enter key\n  ==========================\n  \n  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n",
+					"file": "/E/mv/src/app/views/members/controller.js",
 					"settings":
 					{
-						"buffer_size": 1688,
-						"line_ending": "Windows",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/E/mv/src/app/directives/mw-directives.js",
-					"settings":
-					{
-						"buffer_size": 84876,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/mv/src/index.html",
-					"settings":
-					{
-						"buffer_size": 25156,
+						"buffer_size": 57289,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -584,33 +604,79 @@
 				"/E/mv",
 				"/E/mv/src",
 				"/E/mv/src/app",
-				"/E/mv/src/app/app-pro",
-				"/E/mv/src/app/directives",
 				"/E/mv/src/app/views",
-				"/E/mv/src/app/views/bonus",
-				"/E/mv/src/app/views/bonus/voucher"
+				"/E/mv/src/app/views/members",
+				"/E/mv/src/app/views/wechat-bind-new"
 			],
 			"file_history":
 			[
+				"/E/mv/src/app/views/wechat-bind-new/style.less",
+				"/E/mv/src/app/views/financial-new/index.html",
+				"/E/mv/src/app/views/financial-new/controller.js",
+				"/E/mv/src/app/views/store-list/index.html",
+				"/E/mv/src/app/views/store-list/style.less",
+				"/E/mv/src/app/views/store-list/controller.js",
+				"/E/mv/src/app/views/wechat-bind-new/index.html",
+				"/E/mv/src/app/views/wechat-bind-new/controller.js",
+				"/E/mv/src/app/views/sales-wechat/my-partin-active/controller.js",
+				"/E/mv/src/app/views/sales-wechat/my-partin-active/my-partin-active-list.html",
+				"/E/mv/src/app/template/order-detail/index.html",
+				"/E/mv/src/app/template/order-detail/controller.js",
+				"/E/mv/src/app/views/order/controller.js",
+				"/E/mv/src/app/template/booking/edit/controller.js",
+				"/E/mv/src/app/views/members/index.html",
+				"/E/mv/src/app/views/members/controller.js",
+				"/E/mv/src/app/app-myy/app_main.js",
+				"/E/mv/src/app/views/order/index.html",
+				"/E/mv/src/app/template/emp-kpi-pay-order/index.html",
+				"/E/mv/src/app/template/emp-kpi-pay-order/controller.js",
+				"/E/mv/src/app/template/card-delay/controller.js",
+				"/E/mv/src/app/template/card-delay/dialog.cardDelay.html",
+				"/E/mv/src/app/template/booking/edit/index.html",
+				"/E/mv/src/app/views/booking-table/index.html",
+				"/E/mv/src/app/views/booking-table/controller.js",
+				"/E/mv/src/app/app-pro/app_main.js",
+				"/E/mv/src/app/views/order/index2.html",
+				"/E/mv/src/app/views/order/controller2.js",
+				"/C/Users/hui-zhao/Desktop/test.html",
+				"/E/mv/src/app/services/api.order.js",
+				"/E/mv/src/app/template/card-detail/index.html",
+				"/E/mv/src/app/template/card-detail/controller.js",
+				"/E/mv/src/app/services/api.baseinfo.js",
+				"/E/mv/src/app/views/card-edit/index.html",
+				"/E/mv/src/app/views/card-edit/controller.js",
+				"/E/mv/src/app/template/create-card/controller.js",
+				"/E/mv/src/app/services/api.product.js",
+				"/E/mv/src/app/views/coupon-edit/controller.js",
+				"/E/mv/src/app/views/coupon-edit/index.html",
+				"/E/mv/src/index.html",
+				"/E/mv/src/app/directives/mw-directives.js",
+				"/E/mv/src/app/directives/mw-message-list.js",
+				"/E/mv/src/app/template/mw-message-list.html",
+				"/E/mv/.gitignore",
+				"/E/mv/.git/sourcetreeconfig",
+				"/E/mv/src/app/views/service-item-edit/index.html",
+				"/E/mv/src/app/views/service-item-edit/controller.js",
+				"/E/mv/src/app/views/service-package-edit/controller.js",
+				"/E/mv/src/app/views/product/edit/controller.js",
+				"/E/mv/src/app/views/service-package-edit/index.html",
+				"/C/Users/hui-zhao/Desktop/index.html",
+				"/E/mv/src/app/views/bonus/voucher/controller.js",
+				"/E/mv/src/app/views/bonus/service-item/index.html",
+				"/E/mv/src/app/views/bonus/service-item/controller.js",
+				"/E/mv/src/app/views/bonus/card/controller.js",
+				"/E/mv/src/app/views/bonus/product/controller.js",
+				"/E/mv/src/app/views/bonus/package/controller.js",
+				"/E/mv/src/app/app-pro/routes.js",
+				"/E/mv/src/app/views/store-stock/store-stock-allot/list/controller.js",
+				"/D/Donload/Shadowsocks-4.0.4/pac.txt",
 				"/E/mv/src/app/views/bonus/voucher/index.html",
 				"/E/mv/src/app/views/bonus/card/index.html",
 				"/E/mv/src/app/views/bonus/product/index.html",
 				"/E/mv/src/app/views/bonus/package/index.html",
 				"/E/mv/src/app/views/booking/index.html",
 				"/E/mv/src/app/views/booking/controller.js",
-				"/E/mv/src/app/template/booking/edit/index.html",
-				"/E/mv/src/app/template/booking/edit/controller.js",
 				"/E/mv/src/app/app-lite/routes.js",
-				"/E/mv/src/app/app-pro/app_main.js",
-				"/E/mv/src/index.html",
-				"/E/mv/src/app/directives/mw-directives.js",
-				"/E/mv/src/app/views/bonus/card/controller.js",
-				"/E/mv/src/app/views/bonus/service-item/controller.js",
-				"/E/mv/src/app/views/bonus/product/controller.js",
-				"/E/mv/src/app/views/bonus/package/controller.js",
-				"/E/mv/src/app/views/bonus/voucher/controller.js",
-				"/E/mv/src/app/services/api.baseinfo.js",
-				"/E/mv/src/app/views/bonus/service-item/index.html",
 				"/E/mv/src/app/views/coupon-list/controller.js",
 				"/E/mv/src/app/views/service-item-list/index.html",
 				"/E/mv/src/app/views/service-item-list/controller.js",
@@ -618,23 +684,14 @@
 				"/E/mv/src/app/views/card-list/controller.js",
 				"/E/mv/src/app/views/bonus/service-item/style.less",
 				"/E/mv/src/app/views/service-package-list/controller.js",
-				"/E/mv/src/app/views/members/index.html",
-				"/E/mv/src/app/views/members/controller.js",
 				"/E/mv/src/app/views/members/member-query/controller.js",
 				"/E/mv/src/app/views/members/member-query/index.html",
 				"/E/mv/src/app/services/api.member.js",
-				"/E/mv/src/app/views/booking-table/index.html",
-				"/E/mv/src/app/views/booking-table/controller.js",
-				"/E/mv/src/app/template/order-detail/controller.js",
-				"/E/mv/src/app/views/financial-new/controller.js",
 				"/E/mv/src/app/services/api.report.js",
 				"/E/mv/src/app/template/add-shifts/index.html",
 				"/E/mv/src/app/template/add-shifts/controller.js",
-				"/E/mv/src/app/views/financial-new/index.html",
 				"/E/mv/src/app/views/systemlog/index.html",
-				"/E/mv/src/app/template/order-detail/index.html",
 				"/E/mv/src/app/app-lite/app_main.js",
-				"/E/mv/src/app/services/api.order.js",
 				"/E/mv/src/app/template/order-detail/style.less",
 				"/E/mv/src/app/views/sales-wechat/group-operation/index.html",
 				"/E/mv/src/app/views/sales-wechat/group-operation/my-partin-active-list.html",
@@ -647,13 +704,7 @@
 				"/E/webpack_demo/App.vue",
 				"/E/webpack_demo/webpack.config.js",
 				"/E/package-lock.json",
-				"/E/mv/src/app/app-myy/app_main.js",
-				"/E/mv/src/app/views/service-item-edit/controller.js",
-				"/E/mv/src/app/views/service-item-edit/index.html",
 				"/E/mv/src/app/directives/mw-tags.js",
-				"/E/mv/src/app/template/card-detail/index.html",
-				"/E/mv/src/app/views/wechat-bind-new/index.html",
-				"/E/mv/src/app/views/wechat-bind-new/controller.js",
 				"/C/Users/hui-zhao/Desktop/openvpn-keys/host.localdomain.ovpn",
 				"/E/mv/src/sign2.html",
 				"/E/mv/src/sign.html",
@@ -665,13 +716,11 @@
 				"/E/mv/src/style/app-lite.less",
 				"/E/mv/src/style/app-myy.less",
 				"/E/mv/src/style/app.less",
-				"/E/mv/src/app/app-pro/routes.js",
 				"/E/mv/src/app/views/sales-wechat/wechat-financial/index.html",
 				"/E/mv/src/app/views/sales-wechat/wechat-financial/controller.js",
 				"/E/mv/src/app/template/member-source/controller.js",
 				"/E/mv/src/app/views/members/member-source-setting/index.html",
 				"/E/mv/src/app/views/members/member-source-setting/controller.js",
-				"/E/mv/src/app/template/mw-message-list.html",
 				"/E/mv/src/app/views/bonus/ladder/index.html",
 				"/E/mv/src/app/views/bonus/ladder/controller.js",
 				"/E/mv/src/app/services/api.bonus.js",
@@ -687,23 +736,19 @@
 				"/E/mv/src/app/template/store-stock/store-stock-detail/controller.js",
 				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/controller.js",
 				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/README.md",
-				"/E/mv/src/app/directives/mw-message-list.js",
 				"/C/Users/hui-zhao/AppData/Roaming/Sublime Text 3/Packages/CSScomb/README.md",
-				"/E/mv/src/app/template/send-coupon/style.less",
-				"/E/mv/src/app/template/send-coupon/controller.js",
-				"/E/mv/src/app/template/store-stock/store-stock-detail/index.html",
-				"/E/mv/src/app/template/rechange/index.html",
-				"/E/mv/src/app/views/store-stock/store-stock-purchase-record/index.html"
+				"/E/mv/src/app/template/send-coupon/style.less"
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 47.0
 			},
 			"find_in_files":
 			{
 				"height": 167.0,
 				"where_history":
 				[
+					"E:\\mv\\src",
 					""
 				]
 			},
@@ -712,6 +757,55 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"on",
+					"route",
+					"vm.revenueData",
+					"permission_mannage",
+					"ng-class",
+					"editStore",
+					"亲~您的权限不能操作",
+					"vm.order.order_info.order_kind",
+					"permission_store_all",
+					"全部",
+					"add_emp_click",
+					"check_member_password",
+					"show_pay_order_preview_dialog",
+					"add_emp_click",
+					"show_pay_order_preview_dialog",
+					"delayCardDate",
+					"activated",
+					"showNewMemberButton",
+					"newBooking",
+					"permission",
+					"newBooking",
+					"actual_price",
+					"order_kind",
+					"orderKind",
+					"开卡",
+					"actual_price",
+					"vm.type",
+					"actual_price",
+					"selling_price",
+					"actual_price",
+					"actualPerPrice",
+					"vm.start_date_type",
+					"vm.type",
+					"api_baseinfo.transform_card_define",
+					"dialogCreateCard",
+					"api_product.save_card",
+					"mw-notice",
+					"setTimeout",
+					"$timeout",
+					"is_sim",
+					"vm.noticeList",
+					"initSocketConnect",
+					"$timeout",
+					"vm.orderGive",
+					"init",
+					"sock",
+					"vm.orderGive",
+					"permission",
+					"git",
 					"!",
 					"vm.noticeList",
 					"noticeList",
@@ -790,56 +884,7 @@
 					"vm.queryPotentialParameters",
 					"loadData",
 					"vm.queryParameters",
-					"loadData",
-					"vm.storeId",
-					"vm.queryPotentialParameters",
-					"loadData",
-					"initParameters",
-					"$route",
-					"selectTags",
-					"answer",
-					"self.selectedMember",
-					"answer",
-					"save",
-					"loadMemberList",
-					"querySearchMember",
-					"self.selectedMember",
-					"searchMemberNameChange",
-					"newBooking",
-					"searchPotentialSummary",
-					"vm.guestSource",
-					"permission",
-					"permisson",
-					"vm.guestSource",
-					"searchPotentialSummary",
-					"loadSources",
-					"selectTabs",
-					"vm.sources",
-					"});",
-					"permission",
-					"searchPotentialSummary",
-					"loadData",
-					"selectTabs",
-					"vm.overview",
-					"会员",
-					"getReportList",
-					"localStorage",
-					"微信商城",
-					"商户预约",
-					"商户",
-					"vm.store_list",
-					"searchPotentialSummary",
-					"loadData",
-					"locaData",
-					"loadData",
-					"searchPotentialSummary",
-					"init",
-					"exportExcel",
-					"vm.operatingRecordHeader",
-					"order_kind",
-					"loadData",
-					"type",
-					"initSocketConnect"
+					"loadData"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -869,19 +914,50 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/E/mv/src/app/app-pro/app_main.js",
+							"file": "/E/mv/src/app/views/wechat-bind-new/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 105536,
+								"buffer_size": 1501,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										73678,
-										73678
+										1280,
+										1280
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/mv/src/app/views/wechat-bind-new/controller.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1807,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1681,
+										1681
 									]
 								],
 								"settings":
@@ -892,37 +968,7 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 36748.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Users/hui-zhao/Desktop/test.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 121,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										121,
-										121
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 767.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -930,93 +976,32 @@
 						},
 						{
 							"buffer": 2,
+							"file": "/E/mv/src/app/views/members/controller.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1688,
+								"buffer_size": 57289,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1534,
-										1534
-									]
-								],
-								"settings":
-								{
-									"auto_indent": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_width": 2,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 450.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/mv/src/app/directives/mw-directives.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 84876,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										18636,
-										18636
+										5656,
+										5411
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 798.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/E/mv/src/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 25156,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3057,
-										3070
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1640.0,
+								"translation.y": 3673.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1062,7 +1047,7 @@
 				"height": 162.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,919,2132,380,2788",
+			"position": "0,2,3,-32000,-32000,-1,-1,919,2132,380,2788",
 			"project": "",
 			"replace":
 			{
